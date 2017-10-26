@@ -1,0 +1,7 @@
+.tox
+.cache
+venv
+__pycache__
+junit*xml
+*log
+*.swp

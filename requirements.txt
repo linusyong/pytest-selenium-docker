@@ -1,0 +1,5 @@
+certifi==2017.7.27.1
+pytest==3.2.3
+pytest-base-url==1.4.1
+requests==2.18.4
+selenium==3.6.0
